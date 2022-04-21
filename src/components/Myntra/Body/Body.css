@@ -1,0 +1,10 @@
+.Body {
+  max-width: 380px;
+  margin: 0 auto;
+  margin-top: 130px;
+  background-color: #1a1c23;
+}
+
+.container {
+  padding: 0 16px 16px;
+}

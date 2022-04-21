@@ -1,0 +1,22 @@
+.enrollWelcomeWrapper h4 {
+  color: #edab37;
+  font-family: Whitney-SemiBold;
+  font-size: 24px;
+  font-weight: 700;
+  font-size: 25px;
+  text-transform: capitalize;
+}
+
+.enroll-welcome-subtext {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 6px;
+  color: #edab37;
+}
+
+.enroll-welcome-desc {
+  color: #a4a4a8;
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 6px;
+}
